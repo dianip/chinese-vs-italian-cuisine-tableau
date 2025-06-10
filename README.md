@@ -1,6 +1,6 @@
 # Chinese vs Italian: Which Cuisine Dominates Mainland USA?
 
-A Tableau dashboard analyzing which cuisine has more restaurants across the mainland USA – Chinese or Italian.
+A Tableau dashboard analysing which cuisine has more restaurants across the mainland USA – Chinese or Italian.
 
 ---
 
@@ -9,7 +9,6 @@ This project compares the number of Chinese and Italian restaurants in the US us
 
 ## Tools Used
 - Tableau Public
-- Canva (for visual styling)
 - Excel (for cleaning and summaries)
 
 ## Key Insights
